@@ -1,0 +1,11 @@
+.navbar{
+    border-bottom: solid 2px #32b3f3; opacity: .6;
+}
+
+header{
+    min-height: 100vh;
+    /* استخدمنا المين عشان نقوله ان الارتفاع قابل للتغيير مع حجم الشاشات */
+    background-image:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url(../images/home.jpg);
+    background-position: center ;
+    background-size: cover;
+}
